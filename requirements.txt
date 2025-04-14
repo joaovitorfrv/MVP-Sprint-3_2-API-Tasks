@@ -8,3 +8,4 @@ sqlalchemy-utils
 requests
 flask-openapi3[swagger,rapidoc]
 pydantic
+typing

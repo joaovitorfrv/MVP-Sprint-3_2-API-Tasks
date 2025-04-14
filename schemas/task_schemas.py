@@ -1,5 +1,5 @@
 from pydantic import BaseModel, Field
-from typing import List, Optional, Required
+from typing import List
 
 from model.task_model import Task
 
